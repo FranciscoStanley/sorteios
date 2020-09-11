@@ -39,5 +39,12 @@ main {
 }
 
 .form {
+    text-align: center;
     background-image: url('../img/');
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+    text-shadow: 3px 3px 5px black;
 }

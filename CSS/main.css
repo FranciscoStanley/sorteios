@@ -151,3 +151,9 @@ ul.slick-dots li button {
 ul.slick-dots li.slick-active {
     background-color: #00bac6;
 }
+
+h1 {
+    color: rgb(149, 7, 206);
+    text-align: center;
+    text-shadow: 5px 5px 15px black;
+}
